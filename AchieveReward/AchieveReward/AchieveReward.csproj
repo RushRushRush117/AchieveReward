@@ -43,6 +43,7 @@
     <Compile Include="AchievementGoal.cs" />
     <Compile Include="AchievementItem.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="GameEvent.cs" />
     <Compile Include="IGameEvent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
